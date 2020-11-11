@@ -1,0 +1,4 @@
+opencv-python==4.4.0.44
+numpy==1.19.2
+Pillow==6.2.1
+tk==0.1.0
